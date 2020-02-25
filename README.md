@@ -1,7 +1,7 @@
 #### 게시판 프론트엔드
 
 https://github.com/k0603156/ExamBoardFrontend
-=> https://bitbucket.org/seongtab/examboardfrontend/src
+=> https://bitbucket.org/kimyongkuk/examboardfrontend/src/master/
 
 #### 백엔드
 
